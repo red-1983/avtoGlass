@@ -99,7 +99,7 @@ nav ul li:nth-child(3) {
       }   
 /* presento*/
 .presento {
-background-image: url("/image/presento1.webp");
+background-image: url("\image\presento1.webp");
 min-height:40vw;
 width:100%;
 margin:0 auto;
