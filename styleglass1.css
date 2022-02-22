@@ -444,7 +444,7 @@ color: #1B7496;
 .between p::before{
 content:"";
 position:absolute;
-background-image: url("/image/Group2.svg");
+background-image: url("image/Group2.svg");
 background-repeat: no-repeat;
 background-size: contain;
 width: 3vw;
@@ -535,7 +535,7 @@ position:relative;
 .myDIV1_contener2 ul li::before{
 content: "";
 position:absolute;
-background-image: url('/image/galka.svg');  
+background-image: url('image/galka.svg');  
 width:2vw;
 height: 2vw;
 background-repeat: no-repeat;
@@ -633,7 +633,7 @@ position:relative;
        }
        .myDIV1_social .myDIV1_instagram::before {
         content:"";
-        background-image:  url('/image/social/Instagram_logo_2016 1.svg');
+        background-image:  url('image/social/Instagram_logo_2016 1.svg');
         width:2vw;
         height: 2vw;
         background-repeat: no-repeat;
@@ -643,7 +643,7 @@ position:relative;
        }
        .myDIV1_social .myDIV1_vk::before {
         content:"";
-        background-image:  url('/image/social/VK.com-logo 1.svg');
+        background-image:  url('image/social/VK.com-logo 1.svg');
         width:2vw;
         height: 2vw;
         background-repeat: no-repeat;
@@ -772,7 +772,7 @@ text-align: justify;
       .myDIV2_contener2 ul li:not(:first-of-type)::before {
       
           content:"";
-          background-image:  url('/image/galka1.svg');
+          background-image:  url('image/galka1.svg');
           width:2vw;
           height: 2vw;
           background-repeat: no-repeat;
@@ -857,7 +857,7 @@ justify-content: space-between;
   }
   .myDIV3_ul1 li::before{
   content:"";
-    background-image:  url('/image/galka.svg');
+    background-image:  url('image/galka.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width:1.5vw;
@@ -907,7 +907,7 @@ justify-content: space-between;
  }
  .myDIV3_ul2 li::before{
  content:"";
-   background-image:  url('/image/galka.svg');
+   background-image:  url('image/galka.svg');
    background-repeat: no-repeat;
    background-size: contain;
    width:1.5vw;
