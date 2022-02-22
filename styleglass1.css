@@ -321,7 +321,7 @@ background-size: cover;
  }
 
  .glass {
-     background-image: url("/image/glass.jpg");
+     background-image: url("image/glass.jpg");
      background-repeat: no-repeat;
      background-size: cover;
      text-align: center;
@@ -340,7 +340,7 @@ background-size: cover;
      color:#fff;
  }
  .headlight {
-    background-image: url("/image/headlight1.jpg");
+    background-image: url("image/headlight1.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
@@ -359,7 +359,7 @@ background-size: cover;
     color:#fff;
 }
 .crack {
-    background-image: url("/image/crack1.jpg");
+    background-image: url("image/crack1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -377,7 +377,7 @@ background-size: cover;
     color:#fff;
 }
 .autoconditioner {
-    background-image: url("/image/autoconditioner1.jpg");
+    background-image: url("image/autoconditioner1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
